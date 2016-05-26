@@ -1,0 +1,13 @@
+{
+	"name":"all_together_now",
+	"version":"0.1.0",
+	"description": "Using Mongodb together with route handling",
+	"main":"app.js",
+	"dependencies":{
+		"consolidate":"~0.13.1",
+		"nunjucks":"~2.2.0"
+	},
+	"author":"mbongeni",
+	"license":"0BSD"
+
+}
